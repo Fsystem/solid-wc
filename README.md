@@ -1,2 +1,5 @@
-# solid-wc
-Created with WebComponents.dev
+# Solid Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/ryansolid/solid)
